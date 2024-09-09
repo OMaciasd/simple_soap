@@ -1,0 +1,4 @@
+C:\inetpub\wwwroot\SimpleSOAPService\SimpleSOAPServiceLib\obj\Debug\net9.0\SimpleSOAPServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\SimpleSOAPService\SimpleSOAPServiceLib\obj\Debug\net9.0\SimpleSOAPServiceLib.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\SimpleSOAPService\SimpleSOAPServiceLib\obj\Debug\net9.0\SimpleSOAPServiceLib.AssemblyInfo.cs
+C:\inetpub\wwwroot\SimpleSOAPService\SimpleSOAPServiceLib\obj\Debug\net9.0\SimpleSOAPServiceLib.csproj.CoreCompileInputs.cache
